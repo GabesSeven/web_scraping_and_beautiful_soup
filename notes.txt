@@ -1,3 +1,0 @@
-html.parser
-lxml
-html5lib
